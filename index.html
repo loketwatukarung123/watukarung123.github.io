@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>belajar membuat paragraf</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1><font color="#9900FF"><p align="center">DIRGAHAYU HUT-RI KE 80 </p></font></h1>	
+ <h4><p align="justivy">Hari Kemerdekaan untuk negara ku tercinta Negri Indonesia , indonesia merupakan negri yang akan banyak Suku, Agama dan juga Budaya. 17 Agustus 2025, merupakan hari kemerdekaan yang ke 80 bagi Negriku tercinta ini.</p></h4> Kami Keluarga Besar dari DISBUDPARPORA mengucapkan selamat HARI KEMERDEKAAN INDONESIA. Semoga kedepanya Indonesia dapat menjadi Negara maju dan selalu berkembang, menciptakan lapangan pekerjaan bagi seluruh rakyat indonesia  </br> Kami juga berharap Indonesia bisa memujudkan segala Mimpi dan juga Cita-Cita bagi rakyat indonesia ini. Harapan besar kami dari dinas pariwisata khususnya dari destinasi wisata pantai watukarung indonesia dapat menjadi negara yang jauh lebih maju dari pada negara lain. segala puji syukur kami ucapakan kepada presiden kita bapak Prabowo Subiyato semoga menjadi pemimpin yang mengiring Negri ini menuju Indonesia Emas. </br>
+
+ <video controls>
+    <source src="HUT80.MP4" type="video/mp4" />
+    HUT RI 80
+  </video>
+</body>
+</html>
